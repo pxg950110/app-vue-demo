@@ -1,0 +1,19 @@
+.el-col {
+    border-radius: 4px;
+  }
+  .grid-content  {
+    background:blue;
+  }
+  .bg-purple {
+    background: #d3dce6;
+  }
+  .bg-purple-light {
+    background: #e5e9f2;
+  }
+.el-tabs{
+    width: 100%;
+    min-width: 100%;
+}
+div{
+    width: 100%;
+}
